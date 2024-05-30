@@ -15,11 +15,7 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-And think you that I should be dumb,  
-And full DOLORUM OMNIUM,  
-Excepting when YOU choose to come  
-And share my dinner?  
-At other times be sour and glum  
+
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
@@ -29,16 +25,3 @@ At other times be sour and glum
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
-“Anniversary Letter”  
-You give me excuse after excuse,  
-With your eyes giving loving looks, your snarky comments, your comforting breaths -  
-If I struggle to breathe,   
-Every rocky day when we get to be together and present to hold each other afterwards.  
-Every time  
-I doubt myself you stay my rock.  
-I will be here for you.  
-I want to work for what we have, and I want us  
-To always prosper,  
-That is something I can wish for. But you took those wishes,  
-And made them a reality.  
-I am safe with you, and I am loved by you continuously.  
